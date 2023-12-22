@@ -1001,7 +1001,7 @@ textarea {
     margin-top: 100px;
     flex-direction: column;
     gap: 30px;
-    margin-left: -800px;
+    margin-left: -900px;
   }
 
   .advice-card {
@@ -1044,7 +1044,7 @@ textarea {
     flex-direction: column;
     align-items: center;
     gap: 60px;
-    margin-left: -700px;
+    margin-left: -750px;
   }
 
   .email-text {
